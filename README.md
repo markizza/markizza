@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Mark 👋
 
-<!--
-**markizza/markizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- MSc Cybersecurity Technology Student
+- Security+ Certified
+- SOC Analyst Trainee
+- Learning Python
+- Building Cybersecurity Home Labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Python Automation
+- Splunk
+- Detection Engineering
+- Incident Response
+
+## Projects
+
+- Python Security Tools
+- SOC Investigation Writeups
+- Home Lab Documentation
+
+## Connect
+
+LinkedIn: [Mark Nwaodor](https://www.linkedin.com/in/mark-nwaodor-23b963202/)
+YouTube: [CyberMarkzy](https://www.youtube.com/@CyberMarkzy)  
